@@ -1,0 +1,8 @@
+-e .
+dash==1.7.0
+statsmodels==0.10.2
+pandas==0.25.3
+plotly==2.0.10  # Plotly graphing library used in examples
+
+# dev
+zappa==0.48.2  # serverless deployment

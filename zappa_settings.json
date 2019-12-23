@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "project_name": "arimatic-web",
+        "app_function": "arimatic.app.app",
+        "aws_region": "ap-southeast-1",
+        "s3_bucket": "arimatic-deploy",
+        "runtime": "python3.6",
+        "domain": "arima.kygrykhon.com"
+    }
+}

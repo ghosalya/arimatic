@@ -1,0 +1,8 @@
+*.egg-info
+
+# direnv
+.direnv
+.envrc
+
+# visual studio code
+.vscode
